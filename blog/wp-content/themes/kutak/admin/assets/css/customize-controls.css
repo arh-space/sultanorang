@@ -1,0 +1,16 @@
+.preview-mobile .wp-full-overlay-main { width: 375px; height: 667px; }
+.preview-tablet .wp-full-overlay-main { width: 768px; height: 1024px; }
+
+.apalodi-social-icons {
+    padding: 16px; margin-bottom: 6px;
+    color: #23282d;
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    transition: opacity .5s;
+    cursor: move
+}
+
+.apalodi-social-icons select { margin-bottom: 6px }
+
+.wp-core-ui .button-link-delete.apalodi-social-icons-delete { margin-top: 12px; }

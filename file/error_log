@@ -1,0 +1,30 @@
+[15-Apr-2021 07:21:07 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'tema4798_arh', 'Pekanbaru00@', Array)
+#1 /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'tema4798_arh', 'Pekanbaru00@', Array)
+#2 /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connect in /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 678
+[15-Apr-2021 07:21:14 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'tema4798_arh', 'Pekanbaru00@', Array)
+#1 /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'tema4798_arh', 'Pekanbaru00@', Array)
+#2 /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connect in /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 678
+[15-Apr-2021 07:22:24 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'tema4798_arh', 'Pekanbaru00@', Array)
+#1 /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'tema4798_arh', 'Pekanbaru00@', Array)
+#2 /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connect in /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 678
+[15-Apr-2021 07:22:30 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'tema4798_arh', 'Pekanbaru00@', Array)
+#1 /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'tema4798_arh', 'Pekanbaru00@', Array)
+#2 /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connect in /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 678
+[15-Apr-2021 07:22:35 UTC] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'tema4798_arh', 'Pekanbaru00@', Array)
+#1 /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'tema4798_arh', 'Pekanbaru00@', Array)
+#2 /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connect in /home/tema4798/public_html/orangsultan/file/Application/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 678

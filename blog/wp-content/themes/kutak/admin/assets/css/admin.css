@@ -1,0 +1,9 @@
+.field-bg-image {}
+.field-bg-image-placeholder { width: 80px; position: relative; overflow: hidden; }
+.field-bg-image-placeholder img { width: 100%; height: auto; vertical-align: middle; }
+
+.field-bg-image-remove { 
+    position: absolute; top: 0; right: 0; width: 20px; height: 20px; cursor: pointer;
+    text-align: center; line-height: 20px;
+    background: #900; color: #fff; 
+}

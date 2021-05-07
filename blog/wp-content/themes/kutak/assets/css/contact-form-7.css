@@ -1,0 +1,40 @@
+/*==================================================================================================
+7.	Contact Form 7
+================================================================================================= */
+.wpcf7 {  }
+.wpcf7:after { content: ''; display: table; clear: both; }
+.wpcf7-display-none { display: none }
+
+.wpcf7 .screen-reader-response { 
+    position: absolute; clip: rect(1px, 1px, 1px, 1px); 
+    height: 1px; width: 1px; overflow: hidden; word-wrap: normal !important; 
+}
+
+.wpcf7 p { margin-bottom: 1rem; clear: both; }
+.wpcf7 p:last-child { margin-bottom: 0 }
+.wpcf7-list-item { display: block; }
+
+.wpcf7-text,
+.wpcf7-number,
+.wpcf7-date,
+.wpcf7-select,
+.wpcf7-textarea,
+.wpcf7-quiz { width: 100%; }
+
+.wpcf7-textarea { height: 130px; margin: 0 }
+
+.wpcf7-form-control-wrap { position: relative; }
+.wpcf7-form-control { }
+.wpcf7-not-valid-tip { display: block; color: #f52323; font-size: 15px; font-weight: 500; }
+.wpcf7-not-valid { border-color: #f52323 }
+
+.wpcf7 .ajax-error {  }
+
+.wpcf7 .ajax-loader {
+    display: inline-block; vertical-align: middle; visibility: hidden;
+    width: 40px; height: 30px; border: none; padding: 0; margin: 0 0 0 4px;
+    background: url(../img/loader.svg) center center; background-size: cover; 
+}
+.wpcf7 .ajax-loader.is-active { visibility: visible; }
+
+.wpcf7-response-output {  }

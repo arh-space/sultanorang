@@ -1,0 +1,152 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: AP Performance\n"
+"POT-Creation-Date: 2019-02-13 00:25+0100\n"
+"PO-Revision-Date: 2019-02-03 02:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.13\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ap-performance.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-admin.php:50 admin/class-admin.php:63 admin/class-admin.php:80
+msgid "AP Performance Settings"
+msgstr ""
+
+#: admin/class-admin.php:50
+msgid "Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: admin/class-admin.php:64
+msgid "AP Performance"
+msgstr ""
+
+#: admin/class-admin.php:195
+msgid "Render Blocking Scripts"
+msgstr ""
+
+#: admin/class-admin.php:202 admin/class-admin.php:284
+msgid "Defer scripts"
+msgstr ""
+
+#: admin/class-admin.php:210 admin/class-admin.php:301
+msgid "Don't defer jQuery"
+msgstr ""
+
+#: admin/class-admin.php:218
+msgid "Async scripts handles"
+msgstr ""
+
+#: admin/class-admin.php:227
+msgid "Disable defer scripts handles"
+msgstr ""
+
+#: admin/class-admin.php:236
+msgid "Other Scripts"
+msgstr ""
+
+#: admin/class-admin.php:243 admin/class-admin.php:349
+#: admin/class-admin.php:350
+msgid "Disable jQuery Migrate"
+msgstr ""
+
+#: admin/class-admin.php:251 admin/class-admin.php:366
+msgid "Disable Emojis"
+msgstr ""
+
+#: admin/class-admin.php:259 admin/class-admin.php:383
+msgid "Disable WP Embed"
+msgstr ""
+
+#: admin/class-admin.php:267
+msgid "Disable scripts handles"
+msgstr ""
+
+#: admin/class-admin.php:285
+msgid "Defer loading of scripts"
+msgstr ""
+
+#: admin/class-admin.php:286
+msgid ""
+"When scripts are deferred they aren't render blocking. The scripts are "
+"executed when the page has finished parsing."
+msgstr ""
+
+#: admin/class-admin.php:302
+msgid "Remove jQuery from deferred scripts"
+msgstr ""
+
+#: admin/class-admin.php:303
+msgid ""
+"Some plugins might need jQuery not to be deferred. If you have javascripts "
+"problems with other plugins try enabling this option."
+msgstr ""
+
+#: admin/class-admin.php:318
+msgid "These scripts are executed asynchronously with the rest of the page."
+msgstr ""
+
+#: admin/class-admin.php:319
+msgid "Enter handles of scripts you want to load async separated by comma."
+msgstr ""
+
+#: admin/class-admin.php:320 admin/class-admin.php:335
+#: admin/class-admin.php:401
+msgid "E.g. theme-scripts,theme-plugins"
+msgstr ""
+
+#: admin/class-admin.php:334
+msgid "Enter handles of scripts you want to disable from deferring."
+msgstr ""
+
+#: admin/class-admin.php:351
+msgid ""
+"jQuery Migrate is needed only for old plugins and themes that use old jQuery "
+"functions. It should be safe to disable it."
+msgstr ""
+
+#: admin/class-admin.php:367
+msgid "Disable emojis scripts"
+msgstr ""
+
+#: admin/class-admin.php:368
+msgid "If you don't need emojis you can disable them from loading."
+msgstr ""
+
+#: admin/class-admin.php:384
+msgid "Disable embed scripts"
+msgstr ""
+
+#: admin/class-admin.php:385
+msgid ""
+"WP Embed scripts are used if you want to embed other sites into yours as "
+"iframes."
+msgstr ""
+
+#: admin/class-admin.php:400
+msgid "Enter handles of scripts you want to disable from loading."
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Improve performance of your themes."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "APALODI"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://apalodi.com"
+msgstr ""

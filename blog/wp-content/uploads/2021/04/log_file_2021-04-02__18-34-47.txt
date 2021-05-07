@@ -1,0 +1,31 @@
+
+---Downloaded files---
+The import files for: MainDemo were successfully downloaded!
+Initial max execution time = 270
+Files info:
+Site URL = https://orangsultan.com/blog
+Data file = /home/tema4798/public_html/orangsultan/blog/wp-content/uploads/2021/04/demo-content-import-file_2021-04-02__18-34-47.xml
+Widget file = /home/tema4798/public_html/orangsultan/blog/wp-content/uploads/2021/04/demo-widgets-import-file_2021-04-02__18-34-47.json
+Customizer file = /home/tema4798/public_html/orangsultan/blog/wp-content/uploads/2021/04/demo-customizer-import-file_2021-04-02__18-34-47.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Posts Widget Area : 
+
+mc4wp_form_widget - Join our Newsletter - Site does not support widget
+AP Ads - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

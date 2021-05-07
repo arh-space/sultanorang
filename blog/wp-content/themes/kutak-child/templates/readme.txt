@@ -1,0 +1,1 @@
+Copy templates from parent theme here to override them.

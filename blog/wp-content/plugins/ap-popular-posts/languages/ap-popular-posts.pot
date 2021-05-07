@@ -1,0 +1,146 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: AP Popular Posts\n"
+"POT-Creation-Date: 2019-02-03 02:24+0100\n"
+"PO-Revision-Date: 2018-12-05 17:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.13\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ap-popular-posts.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-admin.php:50 admin/class-admin.php:63 admin/class-admin.php:80
+msgid "AP Popular Posts Settings"
+msgstr ""
+
+#: admin/class-admin.php:50
+msgid "Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: admin/class-admin.php:64 includes/class-widget.php:25
+msgid "AP Popular Posts"
+msgstr ""
+
+#: admin/class-admin.php:160 admin/class-admin.php:196
+msgid "Ajax"
+msgstr ""
+
+#: admin/class-admin.php:168 admin/class-admin.php:216
+msgid "Object Cache"
+msgstr ""
+
+#: admin/class-admin.php:176
+msgid "Data Sampling (Experimental)"
+msgstr ""
+
+#: admin/class-admin.php:197
+msgid "Use ajax to save posts views"
+msgstr ""
+
+#: admin/class-admin.php:198
+msgid ""
+"If you are using some cache plugin you need to enable this option or your "
+"posts views won't be saved."
+msgstr ""
+
+#: admin/class-admin.php:200
+msgid "Use ajax to refresh fragments like widgets or other parts"
+msgstr ""
+
+#: admin/class-admin.php:201
+msgid ""
+"If you are using some cache plugin you might want to enable this option but "
+"it could also be unnecessary if your cache time is less than 1 hour."
+msgstr ""
+
+#: admin/class-admin.php:217
+msgid "Use object cache to save views"
+msgstr ""
+
+#: admin/class-admin.php:218
+msgid ""
+"If you have some object cache solution installed you can use this option to "
+"save views in memory and then later in database to increase performance."
+msgstr ""
+
+#: admin/class-admin.php:232
+msgid "Enter 0 to disable"
+msgstr ""
+
+#: admin/class-admin.php:234
+msgid ""
+"On high traffic sites the constant writing to the database or object cache "
+"may have an impact on performance if your web server isn't great. A sampling "
+"rate of 80-100 is usually for high traffic sites, 40-80 for medium traffic "
+"sites and 10-40 for low traffic sites. If you don't see any performance "
+"issues make the number as low as you can. Even if you have high traffic site "
+"you can use e.g. 40 if you don't see any performance issues."
+msgstr ""
+
+#: admin/class-admin.php:236
+msgid ""
+"Using this method not every post view is saved. It picks random number "
+"between 0 and sample rate number. If it picks the correct number then the "
+"views are increased by sampling rate. On high traffic site it should give "
+"accurate post views."
+msgstr ""
+
+#: includes/class-views.php:55
+msgid "Last 24 hours"
+msgstr ""
+
+#: includes/class-views.php:56
+msgid "Last 3 days"
+msgstr ""
+
+#: includes/class-views.php:57
+msgid "Last 7 days"
+msgstr ""
+
+#: includes/class-widget.php:28
+msgid "Most popular Posts."
+msgstr ""
+
+#: includes/class-widget.php:48
+msgid "Popular Posts"
+msgstr ""
+
+#: includes/class-widget.php:156
+msgid "Title:"
+msgstr ""
+
+#: includes/class-widget.php:161
+msgid "Number of posts to show:"
+msgstr ""
+
+#: includes/class-widget.php:166
+msgid "Interval:"
+msgstr ""
+
+#: templates/widget-content.php:28
+msgid "Currently there are no popular posts."
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Popular posts plugin."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "APALODI"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://apalodi.com"
+msgstr ""
